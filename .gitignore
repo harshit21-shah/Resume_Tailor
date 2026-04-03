@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Env
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Temp/export files
+backend/temp_*.docx
+backend/temp_*.pdf
+backend/temp_raw_*
+backend/export_*.docx
+backend/export_*.pdf
+
+# Misc
+*.bak
