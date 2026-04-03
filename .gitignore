@@ -18,5 +18,11 @@ backend/temp_raw_*
 backend/export_*.docx
 backend/export_*.pdf
 
+# Personal resumes
+Harshit_Resume.docx
+Harshit_Resume.pdf
+Tailored_Resume.pdf
+backend/Tailored_Resume_*.docx
+
 # Misc
 *.bak
